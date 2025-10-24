@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 FEATURES
 
- a. Practice creating files
- b. Commit push changes
- c. Explore github worflow
+ - Practice creating files
+ - Commit push changes
+ - Explore github worflow
 
  HOW TO USE
  
