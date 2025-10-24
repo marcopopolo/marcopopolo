@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 FEATURES
 
 . Practice creating files
-
 . Commit push changes
-
 . Explore github worflow
 
  HOW TO USE
