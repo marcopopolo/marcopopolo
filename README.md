@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 FEATURES
 
-. Practice creating files
-. Commit push changes
-. Explore github worflow
+./Practice creating files
+./Commit push changes
+./Explore github worflow
 
  HOW TO USE
  
-1. Clone the repo
+ 1. Clone the repo
  2. Make changes locally
  3. Commit push changes back to github
  
