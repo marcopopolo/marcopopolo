@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+My first Repository
 **marcopopolo/marcopopolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+FEATURES
+. Practice creating files
+. Commit push changes
+. Explore github worflow
+
+ How to use 
+ 1. Clone the repo
+ 2. Make changes locally
+ 3. Commit push changes back to github
+ 
